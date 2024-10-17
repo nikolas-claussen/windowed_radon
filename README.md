@@ -5,6 +5,6 @@ This repository implements a simple image processing algorithm that locally dete
 
 The provided code carries out the windowed Radon transform and can return either a list of detected line elements, or a nematic tensor that measures the smoothed-out image anisotropy. Some tools to visually check the results are also provided. The jupyter notebook provides a quick tutorial on how to use the module.
 
-Dependencies: `numpy`, `matplotlib`, `scipy`, sciki-image`, `scikit-learn`.
+Dependencies: `numpy`, `matplotlib`, `scipy`, `sciki-image`, `scikit-learn`.
 
 This code was written for the paper [Geometric control of myosin II orientation during axis elongation](https://elifesciences.org/articles/78787) by Lefebvre, Claussen, _et al._.
